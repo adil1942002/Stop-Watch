@@ -1,0 +1,46 @@
+body{
+    background-color: lightgray;
+}
+
+.timeMain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+width: 280px;
+height: 120px;
+background-color: darkcyan;
+border-radius: 10px;
+margin: auto;
+}
+
+.time>h1{
+    display: inline-block;
+    padding-left: 9px;
+    color: silver;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.heading{
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: darkcyan;
+}
+.mainbtn{
+    text-align: center;
+}
+button{
+    padding: 10px 20px;
+    border: none;
+    background-color: darkcyan;
+    margin-top: 50px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 800;
+    color: silver;
+}
+b{
+    font-size: 35px;
+}
